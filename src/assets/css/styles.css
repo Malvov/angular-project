@@ -242,7 +242,7 @@ form input[disabled]{
 	cursor: not-allowed;
 }
 
-.form_error{
+.form-error{
 	font-size: 13px;
 	padding: 3px;
 	background: red;
