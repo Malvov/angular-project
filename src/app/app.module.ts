@@ -12,7 +12,7 @@ import { CreateProjectsComponent } from './components/create-projects/create-pro
 import { ContactComponent } from './components/contact/contact.component';
 import { DetailComponent } from './components/detail/detail.component';
 import { ErrorComponent } from './components/error/error.component';
-import { EditProjectComponent } from './edit-project/edit-project.component';
+import { EditProjectComponent } from './components/edit-project/edit-project.component';
 
 
 
