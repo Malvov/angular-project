@@ -10,7 +10,10 @@ import { AboutComponent } from './components/about/about.component';
 import { ProjectsComponent } from './components/projects/projects.component';
 import { CreateProjectsComponent } from './components/create-projects/create-projects.component';
 import { ContactComponent } from './components/contact/contact.component';
+import { DetailComponent } from './components/detail/detail.component';
 import { ErrorComponent } from './components/error/error.component';
+import { EditProjectComponent } from './edit-project/edit-project.component';
+
 
 
 @NgModule({
@@ -20,7 +23,9 @@ import { ErrorComponent } from './components/error/error.component';
     ProjectsComponent,
     CreateProjectsComponent,
     ContactComponent,
-    ErrorComponent
+    DetailComponent,
+    ErrorComponent,
+    EditProjectComponent
   ],
   imports: [
     BrowserModule,
